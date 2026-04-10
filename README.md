@@ -158,7 +158,7 @@ From **DeFi protocols** and **NFT ecosystems** to **LLM-based agents** and **ent
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=qalbeali8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qalbeali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
